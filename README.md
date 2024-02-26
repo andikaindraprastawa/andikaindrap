@@ -1,13 +1,5 @@
-- 👋 Hi, I’m Andika Indra Prastawa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![logo](https://github.com/andikaindrap/andikaindrap/blob/main/ANDIKA%20INDRA%20PRASTAWA.png)
 
-<!---
-andikaindrap/andikaindrap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Andika Indra Prastawa</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3> 
 
