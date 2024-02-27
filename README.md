@@ -1,4 +1,4 @@
-![logo](https://github.com/andikaindrap/andikaindrap/blob/main/ANDIKA%20INDRA%20PRASTAWA.png)
+<<<<<<  ![logo](https://github.com/andikaindrap/andikaindrap/blob/main/ANDIKA%20INDRA%20PRASTAWA.png)
 
 <h1 align="center">Hi 👋, I'm Andika Indra Prastawa</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3> 
